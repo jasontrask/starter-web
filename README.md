@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 Here I explain how to contribute
 
 ## Deployment
-TBC
+To deploy. Press D
