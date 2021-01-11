@@ -8,7 +8,7 @@ This is my sample.
 
 ## How To Contribute
 
-Here I explain how to contribute
+FORK ME!
 
 ## Deployment
 
