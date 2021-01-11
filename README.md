@@ -13,3 +13,5 @@ Here I explain how to contribute
 ## Deployment
 
 To deploy. Press D, then cross your fingers
+
+&copy; 2021
