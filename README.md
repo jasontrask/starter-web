@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-This is my sample.
+This is my sample. It is the purpose.
 
 ## How To Contribute
 
