@@ -15,4 +15,4 @@ FORK ME!
 
 To deploy. Press D, then cross your fingers
 
-&copy; 2021
+&copy; 2021. All rights reserved.
